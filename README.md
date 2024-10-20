@@ -10,4 +10,4 @@
    - Track and report the environmental footprint of factory operations. Use this data for sustainability reporting and operational adjustments to lower emissions or waste.
  
 **Extra:**
-A full version of FactoryApp for Machines is available in my private repository.
+A full version of FactoryApp for Management is available in my private repository.
